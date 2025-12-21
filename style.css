@@ -21,6 +21,10 @@ height: 300px;
 .g{
   background-color: rgba(144, 36, 36, 1);
 }
+.k fieldset{
+  width:50%;
+  height:300px;
+}
 body {
     text-align: center;
     font-family: Arial;
