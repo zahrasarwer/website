@@ -19,9 +19,8 @@ height: 300px;
   width:80%;
 }
 .g{
-  background-color: rgb(178, 52, 52);
+  background-color: rgba(144, 36, 36, 1);
 }
-
 body {
     text-align: center;
     font-family: Arial;
